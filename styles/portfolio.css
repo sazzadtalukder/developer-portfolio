@@ -123,3 +123,12 @@ main section {
     box-shadow: 0px 6px 50px 0px rgb(0,0,0.06);
     
 }
+
+/* resume section  */
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.download-cv{
+    text-align: center;
+}
