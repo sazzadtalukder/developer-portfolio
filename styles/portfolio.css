@@ -105,3 +105,12 @@ main {
 .about-info {
     text-align: center;
 }
+/* what section start  */
+#what-description{
+    padding: 30px 150px;
+}
+.skills-container
+{
+    display: flex;
+    justify-content: space-between;
+}
